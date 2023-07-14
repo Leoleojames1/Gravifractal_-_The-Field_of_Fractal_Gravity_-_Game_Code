@@ -1,0 +1,2 @@
+# Gravifractal_-_The-Field_of_Fractal_Gravity_-_Game_Code
+Gravifractal: The Field of Fractal Gravity, is a game designed around loadout building, movement combos, and puzzle battlegrounds strategy. The game has been designed utilizing the source code of Marble Marchers, a free open source game linked here: Marble marches designed unique fractal terrain generation. https://codeparade.itch.io/marblemarcher
